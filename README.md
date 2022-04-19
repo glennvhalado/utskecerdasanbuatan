@@ -6,4 +6,4 @@ Pada python ada beberapa statement/kondisi diantaranya adalah if, else dan elif 
 
 Kondisi if else adalah kondisi dimana jika pernyataan benar True maka kode dalam if akan dieksekusi, tetapi jika bernilai salah False maka akan mengeksekusi kode di dalam else.
 
-Dibawah ini adalah contoh penggunaan kondisi if else pada Python
+Didalam file ini terdapat contoh penggunaan kondisi if else pada Python
